@@ -1,3 +1,2 @@
-hii ! 
-<br>
-this is a practice file
+Hii this is me .
+I am learning git and github commands
